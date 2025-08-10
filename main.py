@@ -36,3 +36,6 @@ def main():
         print()
 if __name__ == "__main__":
     main()
+
+# Add to main.py - intentionally bad
+print("CLASSIFIED DATA LEAKED!") # Security violation
