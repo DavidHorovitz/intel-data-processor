@@ -1,5 +1,10 @@
-__pycache__/
-*.pyc
-.env
-classified_data/
-temp_files/
+# Security files
+*.key
+*.pem
+classified/
+secret_data.txt
+
+# Temporary files
+*.tmp
+*.log
+
